@@ -3,7 +3,7 @@
 ### 🔖 Sobre
 Vigésimo sétimo dia do desafio, quase no final e como sempre aplicamentos manipulação de eventos para aprimorar cada vez mais as habilidades com objetos.
 <br/>
-Veja aqui: 
+Veja aqui: https://felpsalvs.github.io/clique-e-arraste/
 <br/>
 27/30 <br/>
 https://JavaScript30.com 
